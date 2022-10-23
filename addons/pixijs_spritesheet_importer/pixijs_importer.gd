@@ -26,14 +26,14 @@ extends EditorPlugin
 var import_plugin_spritesheet = null
 
 func get_name():
-    return "PixiJS Sprite Sheet Importer"
+	return "PixiJS Sprite Sheet Importer"
 
 
 func _enter_tree():
-    import_plugin_spritesheet = preload("pixijs_import_spritesheet.gd").new()
-    add_import_plugin(import_plugin_spritesheet)
+	import_plugin_spritesheet = preload("pixijs_import_spritesheet.gd").new()
+	add_import_plugin(import_plugin_spritesheet)
 
 
 func _exit_tree():
-    remove_import_plugin(import_plugin_spritesheet)
-    import_plugin_spritesheet = null
+	remove_import_plugin(import_plugin_spritesheet)
+	import_plugin_spritesheet = null
