@@ -24,6 +24,11 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://Scenes/GUI/Cell/Cell.gd"
 }, {
+"base": "Reference",
+"class": "CellPriorityQueue",
+"language": "GDScript",
+"path": "res://Engine/Data Structures/CellPriorityQueue.gd"
+}, {
 "base": "Control",
 "class": "Combat_Screen",
 "language": "GDScript",
@@ -67,7 +72,7 @@ _global_script_classes=[ {
 "base": "Reference",
 "class": "HashSet",
 "language": "GDScript",
-"path": "res://Engine/Data_Structures/HashSet.gd"
+"path": "res://Engine/Data Structures/HashSet.gd"
 }, {
 "base": "Node2D",
 "class": "Item",
@@ -172,7 +177,7 @@ _global_script_classes=[ {
 "base": "Reference",
 "class": "LinkedList",
 "language": "GDScript",
-"path": "res://Engine/Data_Structures/Linked_List.gd"
+"path": "res://Engine/Data Structures/Linked_List.gd"
 }, {
 "base": "Camera2D",
 "class": "MainCamera",
@@ -203,11 +208,6 @@ _global_script_classes=[ {
 "class": "Music_Player",
 "language": "GDScript",
 "path": "res://Scenes/Audio/MusicPlayer.gd"
-}, {
-"base": "Reference",
-"class": "PriorityQueue",
-"language": "GDScript",
-"path": "res://Engine/Data_Structures/PriorityQueue.gd"
 }, {
 "base": "Node",
 "class": "SaveLoadSystem",
@@ -283,6 +283,7 @@ _global_script_class_icons={
 "ALL_ITEMS_REF": "",
 "Battlefield_Unit": "",
 "Cell": "",
+"CellPriorityQueue": "",
 "Combat_Screen": "",
 "Combat_Unit": "",
 "Cursor": "",
@@ -319,7 +320,6 @@ _global_script_class_icons={
 "MovementRangeRect": "",
 "Movement_Arrow": "",
 "Music_Player": "",
-"PriorityQueue": "",
 "SaveLoadSystem": "",
 "Shop_UI": "",
 "Spawn_Event": "",

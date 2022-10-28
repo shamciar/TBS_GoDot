@@ -205,6 +205,20 @@ func set(data, index):
 	_current.data = data
 	return ret
 	
+## Checks to see if the data is already contained in the list
+## Note that this implementation allows for duplicates
+## However, classes that use this class can use this method
+## to prevent duplicates
+func contains(data) -> bool:
+	
+	var _current = _head.next
+	while(_current):
+		if ((typeof(data) == typeof(_current.data)) && (data == _current.data)):
+			return true
+		_current = _current.next
+		
+	return false
+	
 func _to_string() -> String:
 	var _current = _head.next
 	var string = "Length: " + str(_len) + "\n"

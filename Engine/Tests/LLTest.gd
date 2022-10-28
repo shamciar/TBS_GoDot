@@ -33,6 +33,9 @@ func _ready():
 	print("Setting")
 	print(ll.set(20, 4))
 	print(ll._to_string())
+	print(ll.contains (20)) # true
+	print(ll.contains (25)) # false
+	print(ll.contains ("osivjiosdv")) # false
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):

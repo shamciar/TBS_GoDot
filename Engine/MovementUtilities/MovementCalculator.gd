@@ -294,13 +294,13 @@ func get_path_to_destination_AI(Unit, target_destination, AllTiles):
 	
 	# Hashset and Priority Queue to hold all the tiles needed
 	var closed_list = HashSet.new()
-	var open_list = PriorityQueue.new()
+	var open_list = CellPriorityQueue.new()
 	
 	# Get Current Tile
 	var current_tile = Unit.UnitMovementStats.currentTile
 	
 	# Add the current cell we are starting on to this list
-	open_list.add_first(Unit.UnitMovementStats.currentTile)
+	open_list.add_sorted(Unit.UnitMovementStats.currentTile)
 	
 	# Process Tiles until the open list is empty
 	while !open_list.is_empty():
@@ -331,7 +331,7 @@ func get_path_to_destination_AI(Unit, target_destination, AllTiles):
 				
 				# Add to the open List
 				if !open_list.contains(adjCell):
-					open_list.add_first(adjCell)
+					open_list.add_sorted(adjCell)
 	
 	# Create the Pathfinding Queue
 	create_pathfinding_queue(target_destination, Unit)
