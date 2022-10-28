@@ -1,14 +1,45 @@
-# Fire Emblem GoDot 
+# Godot 2D Turn-Based Strategy
+Remaking of 2D Fire Emblem games in Godot.
+I am using this project to implement mechanics present in other games,
+such as class changing, dismounting, skills, and combat arts
 
-This is a clone of the GameBoy Advance Fire Emblem games written for Godot. This is purely for educational purposes to learn how to code using A* algorithms, building UIs and creating simple artificial intelligence.
+## Current Fork
 
-## Installation
+Found this project and decided to fork it due to moving over to Godot.
+I plan on adding in additional features present in newer games.
+While I do not intend on updating the main repository per se,
+I am not opposed to doing so should the original programmers desire.
+
+### Goals
+1. Code cleanup, potential refactoring
+2. Class database
+3. Item database
+4. Unit database
+5. Weapon ranks
+6. Class promotion/changing
+7. Mounting/Dismounting
+8. Update UI to match GBA UI
+9. Combat Arts
+10. Skills
+
+### Known Bugs
+1. Empty event queue
+
+# Original Repo Information
+
+## Fire Emblem GoDot 
+
+This is a clone of the GameBoy Advance Fire Emblem games written for Godot.
+This is purely for educational purposes to learn how to code using A* algorithms, building UIs and creating simple artificial intelligence.
+
+
+### Installation
 Download/pull the code locally and scan the project using GoDot. Simply hit run after
 
-## How you can help
+### How you can help
 Take a look at any of the bugs below or anything in the to do list. If you wish to collaborate, send me a message.
 
-## To do list
+### To do list
 1. ~~Finish movement algorithm optimized algorithm~~
 2. Implement enemies -> Aggresive and Passive AI working with ranged attacks as well, Tweek unit selection slightly and add in healers, patrol guards and random (for monsters)
 3. ~~Implement statistics -> Complete~~
@@ -28,7 +59,7 @@ Take a look at any of the bugs below or anything in the to do list. If you wish 
 17. ~~Action Select Function -> Menu built, options need to be built, wait has been added, Added trade and heal~~ All done
 18. ~~Add Game over and Intro Screen -> Complete and tested. Just add options and loading to this next~~
 
-## Bugs to fix
+### Bugs to fix
 1. ~~Trade screen -> When you are the last unit and you trade, the next phase starts due to the turn manager constantly checking every frame. This will need to be changed.~~ Fixed this by adding extra state for units
 2. ~~Level up screen -> When a unit level ups, if the enemy/ally is not dead and still alive, it has more prority on the z index over the screen overlay. We will need to hide the units when this is the case.~~ Fixed by increasing Z-Index
 3. ~~Bad sorting function? -> I keep getting this error and I'm not sure why. Check in with the custom sort function on the Priority queue~~ Updated Godot from 3.1.1 to 3.1.2 fixed this issue
@@ -36,11 +67,11 @@ Take a look at any of the bugs below or anything in the to do list. If you wish 
 5. UI Bugs -> A few things are misaligned and other polish can be done.
 6. Memory Leak -> Need to check if the game is running away with ram. None so far with the editor but I feel like cleanup on exit could be done better.
 
-## Live Demo
+### Live Demo
 https://godot-tbs-fe.herokuapp.com/
 This is out of date but will be updated once I have some progress done.
 
-## Screenshots
+### Screenshots
 
 AI
 ![AI](https://raw.githubusercontent.com/ja-brouil/TBS_GoDot/master/Screenshots/AI.png)

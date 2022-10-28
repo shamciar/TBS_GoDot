@@ -16,6 +16,7 @@ var movement_processed = false
 var cellPosition = Vector2(0,0)
 var avoidanceBonus = 0
 var defenseBonus = 0
+var healBonus = 0.0
 var movementCost = 1
 var occupyingUnit = null
 
