@@ -13,9 +13,10 @@ var color_cell_scene = load("res://Scenes/GUI/CellColors/MovementRangeRect.tscn"
 var movement_processed = false
 
 # Cell info
-var cellPosition = Vector2(0,0)
-var avoidanceBonus = 0
-var defenseBonus = 0
+var cellPosition: Vector2 = Vector2(0,0)
+var height : int = 0
+var avoidanceBonus : int = 0
+var defenseBonus : int = 0
 var healBonus = 0.0
 var movementCost = 1
 var occupyingUnit = null

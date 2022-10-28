@@ -8,9 +8,9 @@ class_name Grid
 
 # Grid information
 ## Height of the map
-export var map_height: int
+var map_height: int
 ## Width of the map
-export var map_width: int
+var map_width: int
 ## Locations of all player (blue) units
 var player_unit_locations
 ## Locations of all enemy (red) units
@@ -28,8 +28,8 @@ signal mapInformationLoaded
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	
-	setup_map_information()
-	setup_grid()
+	_setup_map_information()
+	_setup_grid()
 	
 	pass # Replace with function body.
 
@@ -39,14 +39,14 @@ func _ready():
 #	pass
 
 ## Sets up the information of the map
-func setup_map_information() -> void:
+func _setup_map_information() -> void:
 	# ...
 	BattlefieldInfo.current_level = self
 	BattlefieldInfo.music_player.get_node("AllyLevel").volume_db = 0
 	BattlefieldInfo.victory_text = self.get_meta("Victory_Condition")
 	
 ## Sets up the grid structure
-func setup_grid() -> void:
+func _setup_grid() -> void:
 	
 	# Get map dimensions
 	map_height = self.get_meta("height")
@@ -58,3 +58,17 @@ func setup_grid() -> void:
 		grid.append([])
 		for j in map_height:
 			grid[i].append(0)
+			
+## Sets up the information for each cell in the grid
+func _setup_grid_cells() -> void:
+	
+	var cellInfoNode = $"CellInfo"
+	for cellInfo in cellInfoNode.get_children():
+		var mapCell = Cell.instance()
+		var mapCellPosition = Vector2(cellInfo.position.x / Cell.CELL_SIZE, cellInfo.position.y / Cell.CELL_SIZE)
+		
+	
+
+## Gets a string representation of this object
+func _to_string():
+	pass
