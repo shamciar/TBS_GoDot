@@ -62,7 +62,7 @@ _global_script_classes=[ {
 "base": "Node2D",
 "class": "Grid",
 "language": "GDScript",
-"path": "res://Scenes/Grid/Grid.gd"
+"path": "res://New Scenes/Grid/Grid.gd"
 }, {
 "base": "Node",
 "class": "Group_Name",
