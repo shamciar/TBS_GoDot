@@ -33,6 +33,7 @@ func _input(event):
 				$"Anim".play("Options Fade In")
 				current_state = WAIT
 		GAME_SELECT:
+			# TODO modify this to make it so the cursor can loop using modulo
 			if Input.is_action_just_pressed("ui_up"):
 				current_option_number -= 1
 				$"Options/Hand Selector".rect_position.y -= 18

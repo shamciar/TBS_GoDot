@@ -21,9 +21,14 @@ I am not opposed to doing so should the original programmers desire.
 8. Update UI to match GBA UI
 9. Combat Arts
 10. Skills
+11. In-game level editor
+
+### Completed
+* Implemented a Linked List to use for Priority Queues
 
 ### Known Bugs
 1. Empty event queue
+2. Game crashes when moving the cursor around in moveable area for more times than a unit's movement
 
 # Original Repo Information
 
