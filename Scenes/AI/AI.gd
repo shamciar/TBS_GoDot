@@ -2,6 +2,16 @@ extends Node2D
 
 # Type of AI | Default is passive
 # Strings AGGRESIVE, PASSIVE, PATROL, HEAL, RANDOM | -> Make sure its all lowercase
+enum AI_COMMAND {
+	ATTACK, # Seeks out targets
+	DEFEND, # Does not move
+	AMBUSH, # Waits for enemies to enter attack range
+	SCOUT, # Approaches but does not enter attack range
+	PATROL, # Follows a specified path
+	RETREAT, # Retreat to safety
+	HEAL, # Heals enemies
+	RANDOM # Does whatever
+}
 var ai_type
 
 # Holds all attackable enemies
