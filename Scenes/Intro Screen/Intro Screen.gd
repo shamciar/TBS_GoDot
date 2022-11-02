@@ -10,6 +10,9 @@ var options = ["New Game", "Load Game", "Options Screen"]
 var current_option
 var current_option_number = 0
 
+const selector_offset = 18
+var selector_position
+
 
 func _ready():
 	# Start music
@@ -18,6 +21,8 @@ func _ready():
 	current_state = INTRO
 	
 	current_option = options[current_option_number]
+	
+	selector_position = $"Options/Hand Selector".rect_position.y
 	
 	# Anim signal
 	$"Anim".connect("animation_finished", self, "allow_selection")
@@ -36,26 +41,21 @@ func _input(event):
 			# TODO modify this to make it so the cursor can loop using modulo
 			if Input.is_action_just_pressed("ui_up"):
 				current_option_number -= 1
-				$"Options/Hand Selector".rect_position.y -= 18
-				if current_option_number < 0:
-					current_option_number = 0
-					current_option = options[current_option_number]
-					$"Options/Hand Selector".rect_position.y += 18
+				current_option_number %= 3
+				current_option_number += 3
+				current_option_number %= 3
+				$"Options/Hand Selector".rect_position.y = selector_position + selector_offset * current_option_number
 				current_option = options[current_option_number]
 				$"Options/Hand Selector/Move".play(0)
 			if Input.is_action_just_pressed("ui_down"):
 				current_option_number += 1
-				$"Options/Hand Selector".rect_position.y += 18
-				if current_option_number > options.size() - 1:
-					current_option_number = options.size() - 1
-					current_option = options[current_option_number]
-					$"Options/Hand Selector".rect_position.y -= 18
+				current_option_number %= 3
+				$"Options/Hand Selector".rect_position.y = selector_position + selector_offset * current_option_number
 				current_option = options[current_option_number]
 				$"Options/Hand Selector/Move".play(0)
 			if Input.is_action_just_pressed("ui_accept"):
 				$"Options/Hand Selector/Accept".play(0)
 				process_selection()
-				
 
 func _process(delta):
 	pass
