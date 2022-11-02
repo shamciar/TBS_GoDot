@@ -12,6 +12,7 @@ I am not opposed to doing so should the original programmers desire.
 
 ### Goals
 1. Code cleanup, potential refactoring
+..* Add a class representing Victory and Defeat conditions (see other notes below)
 2. Class database
 3. Item database
 4. Unit database
@@ -29,6 +30,11 @@ I am not opposed to doing so should the original programmers desire.
 ### Known Bugs
 1. Empty event queue
 2. Game crashes when moving the cursor around in moveable area for more times than a unit's movement
+
+### Other Notes
+* Battlefield_Container seems to be a superclass of each chapter
+* Level doesn't seem to do much, but there are individual level scripts that load data from Tiled
+* Each of these could be a superclass extracted from the individual scripts
 
 # Original Repo Information
 
