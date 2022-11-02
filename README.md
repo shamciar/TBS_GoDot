@@ -12,7 +12,7 @@ I am not opposed to doing so should the original programmers desire.
 
 ### Goals
 1. Code cleanup, potential refactoring
-..* Add a class representing Victory and Defeat conditions (see other notes below)
+ * Add a class representing Victory and Defeat conditions (see other notes below)
 2. Class database
 3. Item database
 4. Unit database
