@@ -1,10 +1,19 @@
 class_name Weapon
 extends Resource
 
+enum WeaponRank {
+	E,
+	D,
+	C,
+	B,
+	A,
+	S
+}
+
 enum WieldType {
 	SINGLE,
 	DUAL,
-	TWO
+	TWO_HAND
 }
 
 enum ScalingType {
@@ -23,6 +32,9 @@ export(Resource) var type
 # Information
 export(String) var name
 export(String) var description
+export(WeaponRank) var rank
+export(WieldType) var wield
+export(int) var weapon_exp
 
 # Weapon Stats
 export(int) var might

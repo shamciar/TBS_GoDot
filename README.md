@@ -10,6 +10,9 @@ I plan on adding in additional features present in newer games.
 While I do not intend on updating the main repository per se,
 I am not opposed to doing so should the original programmers desire.
 
+### Changes from GBA FE games
+* TODO Fill in later
+
 ### Goals
 1. Code cleanup, potential refactoring
 	* Add a class representing Victory and Defeat conditions (see other notes below)

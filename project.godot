@@ -14,6 +14,11 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://Scenes/Items/Item_Dict.gd"
 }, {
+"base": "Resource",
+"class": "BaseStatContainer",
+"language": "GDScript",
+"path": "res://Database/Stats/Base_Stat_Container.gd"
+}, {
 "base": "Node2D",
 "class": "Battlefield_Unit",
 "language": "GDScript",
@@ -28,6 +33,11 @@ _global_script_classes=[ {
 "class": "CellPriorityQueue",
 "language": "GDScript",
 "path": "res://Engine/Data Structures/CellPriorityQueue.gd"
+}, {
+"base": "Resource",
+"class": "ClassData",
+"language": "GDScript",
+"path": "res://Database/Classes/Class_Data.gd"
 }, {
 "base": "Control",
 "class": "Combat_Screen",
@@ -232,7 +242,7 @@ _global_script_classes=[ {
 "base": "Resource",
 "class": "Stat",
 "language": "GDScript",
-"path": "res://Resources/Stats/Stat.gd"
+"path": "res://Database/Stats/Stat.gd"
 }, {
 "base": "Node2D",
 "class": "Test_Walk_Map",
@@ -248,6 +258,11 @@ _global_script_classes=[ {
 "class": "Turn_Manager",
 "language": "GDScript",
 "path": "res://Engine/Systems/Turn_Manager.gd"
+}, {
+"base": "Resource",
+"class": "UnitData",
+"language": "GDScript",
+"path": "res://Database/Units/Unit_Data.gd"
 }, {
 "base": "Node",
 "class": "Unit_Action_Status",
@@ -287,7 +302,7 @@ _global_script_classes=[ {
 "base": "Resource",
 "class": "Weapon",
 "language": "GDScript",
-"path": "res://Database/Weapons/Weapon.gd"
+"path": "res://Database/Weapons/Weapon_Data.gd"
 }, {
 "base": "Resource",
 "class": "WeaponType",
@@ -301,9 +316,11 @@ _global_script_classes=[ {
 } ]
 _global_script_class_icons={
 "ALL_ITEMS_REF": "",
+"BaseStatContainer": "",
 "Battlefield_Unit": "",
 "Cell": "",
 "CellPriorityQueue": "",
+"ClassData": "",
 "Combat_Screen": "",
 "Combat_Unit": "",
 "Condition": "",
@@ -348,6 +365,7 @@ _global_script_class_icons={
 "Test_Walk_Map": "",
 "TileUnitUpdater": "",
 "Turn_Manager": "",
+"UnitData": "",
 "Unit_Action_Status": "",
 "Unit_Inventory": "",
 "Unit_Movement": "",
