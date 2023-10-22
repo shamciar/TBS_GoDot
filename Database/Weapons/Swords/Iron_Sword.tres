@@ -1,0 +1,20 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://Database/Weapons/Weapon.gd" type="Script" id=1]
+[ext_resource path="res://Database/Weapons/Swords/Sword.tres" type="Resource" id=2]
+
+[resource]
+script = ExtResource( 1 )
+type = ExtResource( 2 )
+name = "Iron Sword"
+description = ""
+might = 0
+hit = 0
+crit = 0
+weight = 0
+min_range = 0
+max_range = 0
+worth = 0
+sort = 0
+scale = 0
+bonuses = [  ]

@@ -134,7 +134,7 @@ func insert(data, index):
 	if(index >= _len):
 		push_back(data)
 	elif(index <= 0):
-		push_front(data)	
+		push_front(data)
 	else:
 		
 		# Loop through the list for as many times as we need

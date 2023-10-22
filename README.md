@@ -12,23 +12,32 @@ I am not opposed to doing so should the original programmers desire.
 
 ### Goals
 1. Code cleanup, potential refactoring
- * Add a class representing Victory and Defeat conditions (see other notes below)
-2. Class database
-3. Item database
-4. Unit database
-5. Weapon ranks
-6. Class promotion/changing
-7. Mounting/Dismounting
-8. Update UI to match GBA UI
-9. Combat Arts
-10. Skills
-11. In-game level editor
+	* Add a class representing Victory and Defeat conditions (see other notes below)
+2. Create Resources databases to allow more ease-of-use in the future
+	* Class database
+	* Item database
+	* Unit database
+	* Weapon ranks
+3. Class promotion/changing
+	* Modularize character sprite creations, specifically palettes.
+4. Mounting/Dismounting
+	* Add Mounts and Mount Types to database
+5. Update UI to match GBA UI
+6. Skills
+	* Passive Skills (A/B/C Skills)
+	* Active Skills (Combat Arts/Spells)
+7. In-Engine level/map editor
+8. World Map Cleanup
+	* Skirmishes
+	* Unlockable Secret Shops or Traveling Merchants
+11. Postgame/Creature Campaign Expansion
+	* PCG Dungeons
 
 ### Completed
 * Implemented a Linked List to use for Priority Queues
 
 ### Known Bugs
-1. Empty event queue
+1. Empty event queue causing game crash when moving allies
 2. Game crashes when moving the cursor around in moveable area for more times than a unit's movement
 
 ### Other Notes
