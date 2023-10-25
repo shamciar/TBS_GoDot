@@ -8,6 +8,7 @@ script = ExtResource( 1 )
 type = ExtResource( 2 )
 name = "Iron Sword"
 description = ""
+id = 1
 rank = 0
 wield = 0
 weapon_exp = 0

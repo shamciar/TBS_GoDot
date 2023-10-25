@@ -32,6 +32,7 @@ export(Resource) var type
 # Information
 export(String) var name
 export(String) var description
+export(int) var id # For sorting purposes
 export(WeaponRank) var rank
 export(WieldType) var wield
 export(int) var weapon_exp

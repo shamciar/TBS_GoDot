@@ -4,4 +4,7 @@
 
 [resource]
 script = ExtResource( 1 )
-color = 0
+name = "Sword"
+type = 0
+strong_against = 2
+weak_against = 1

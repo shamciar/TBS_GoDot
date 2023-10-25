@@ -1,12 +1,14 @@
-[gd_resource type="Resource" load_steps=3 format=2]
+[gd_resource type="Resource" load_steps=4 format=2]
 
 [ext_resource path="res://Database/Classes/Class_Data.gd" type="Script" id=1]
 [ext_resource path="res://Database/Classes/Mercenary/Base_Stats_Mercenary.tres" type="Resource" id=2]
+[ext_resource path="res://Database/Weapons/Swords/Sword.tres" type="Resource" id=3]
 
 [resource]
 script = ExtResource( 1 )
 title = "Mercenary"
 description = ""
+usable_weapons = [ ExtResource( 3 ) ]
 base_stats = ExtResource( 2 )
 promotions = [  ]
 prerequisites = [  ]

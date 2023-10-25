@@ -4,7 +4,7 @@ extends Resource
 # Information
 export(String) var title
 export(String) var description
-export(Resource) var weapon
+export(Array) var usable_weapons
 export(Resource) var parallel_class
 
 # Visuals
@@ -13,10 +13,10 @@ export(Resource) var parallel_class
 
 # Combat Data
 export(Resource) var base_stats
-# Mastery bonuses
-# Currently only applicable to promoted classes
-# But can be edited here
-export(Resource) var mastery_bonuses
+export(Resource) var max_stats
+
+export(Resource) var growth_bonuses
+export(Resource) var enemy_growths
 
 # Promotions array
 # Normally is one or two
