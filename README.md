@@ -16,6 +16,7 @@ I am not opposed to doing so should the original programmers desire.
 ### Goals
 1. Code cleanup, potential refactoring
 	* Add a class representing Victory and Defeat conditions (see other notes below)
+	* Extract reused code, functions, and classes
 2. Create Resources databases to allow more ease-of-use in the future
 	* Class database
 	* Item database
@@ -40,8 +41,8 @@ I am not opposed to doing so should the original programmers desire.
 * Implemented a Linked List to use for Priority Queues
 
 ### Known Bugs
-1. Empty event queue causing game crash when moving allies
-2. Game crashes when moving the cursor around in moveable area for more times than a unit's movement
+1. ~~Game crash when trying to move player units~~ - Fixed!
+2. Darkened blue tiles stay on screen
 
 ### Other Notes
 * Battlefield_Container seems to be a superclass of each chapter
