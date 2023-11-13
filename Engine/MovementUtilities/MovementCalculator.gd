@@ -250,7 +250,7 @@ func get_path_to_destination(Unit, target_destination, AllTiles):
 	var current_tile = Unit.UnitMovementStats.currentTile
 
 	# Add the current cell we are starting on to this list
-	open_list.add_first(Unit.UnitMovementStats.currentTile)
+	open_list.add_sorted(Unit.UnitMovementStats.currentTile)
 
 	# Process Tiles until the open list is empty
 	while !open_list.is_empty():
@@ -277,7 +277,7 @@ func get_path_to_destination(Unit, target_destination, AllTiles):
 
 				# Add to the open List
 				if !open_list.contains(adjCell):
-					open_list.add_first(adjCell)
+					open_list.add_sorted(adjCell)
 
 	# Create the Pathfinding Queue
 	create_pathfinding_queue(target_destination, Unit)
