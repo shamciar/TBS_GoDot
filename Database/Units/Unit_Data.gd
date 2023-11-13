@@ -15,17 +15,17 @@ export(Resource) var stat_increases # List of stat increases held by the unit. A
 
 # Unit Knowledge
 export(Array) var available_classes
-# Class mastery status - Array of classes (not indices!) and mastery level
+# Class mastery status - Array of unlocked classes (not indices!) and mastery level
 # Weapon Ranks - This needs to be another dictionary
 # Learned CAs
 # Learned Spells
 # Learned Skills
 
-# Inventory Status
-# Current Equipped Weapon (Make this the top weapon to keep the trade trick)
-# Current Weapon Inventory
-# Current Item Inventory
-# Current Equipment Inventory
+# Inventory Status - 4 for each
+# Current Equipped Weapon (Make this the top weapon or a bool flag to keep the trade trick)
+# Current Weapon Inventory (Weapons/Tomes)
+# Current Item Inventory (Any Consumable)
+# Current Equipment Inventory (Mount, armor, accessory, shield etc.)
 # Current Equipped Combat Arts
 # Current Equipped Spells
 # Current Equipped Passive Skills
