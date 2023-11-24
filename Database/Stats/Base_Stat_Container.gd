@@ -6,29 +6,25 @@ extends Resource
 ## since these values can and will change during runtime
 
 enum StatType {
-	VIT,
-	TEC,
+	MHP,
 	STR,
 	MAG,
-	BLD,
-	INT,
 	DEX,
 	AGI,
+	LCK,
+	BLD,
 	WIS,
-	LCK
 }
 
 # This probably isn't the best way to implement this
 # If anything, I can also resource-ify this
 export(Dictionary) var stats = {
-	StatType.VIT : 0,
-	StatType.TEC : 0,
+	StatType.MHP : 0,
 	StatType.STR : 0,
 	StatType.MAG : 0,
-	StatType.BLD : 0,
-	StatType.INT : 0,
 	StatType.DEX : 0,
 	StatType.AGI : 0,
-	StatType.WIS : 0,
 	StatType.LCK : 0,
+	StatType.BLD : 0,
+	StatType.WIS : 0,
 }

@@ -23,7 +23,7 @@ enum ScalingType {
 	DEX,
 	PDEX,
 	MDEX,
-	INT,
+	BLD,
 	WIS,
 }
 
@@ -44,7 +44,8 @@ export(int) var crit
 export(int) var weight
 export(int) var min_range
 export(int) var max_range
-export(int) var worth
+export(int) var uses
+export(int) var ppu
 export(int) var sort
 export(ScalingType) var scale
 
