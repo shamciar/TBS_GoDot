@@ -27,7 +27,8 @@ enum WeaponType {
 	ARCANE,
 	STORM,
 	NATURE,
-	COSMIC
+	COSMIC,
+	NONE
 }
 
 # For WTA.

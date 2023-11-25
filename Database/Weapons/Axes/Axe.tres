@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Database/Weapons/Weapon_Type.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+name = "Axe"
+type = 2
+strong_against = 1
+weak_against = 0
