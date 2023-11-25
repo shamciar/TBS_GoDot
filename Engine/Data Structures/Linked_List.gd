@@ -5,16 +5,16 @@ extends Reference
 ##
 ## This class represents a collection of objects
 ## by chaining their references together.
-## I chose to implement this to greatly speed up
-## pathfinding and AI times compared to arrays
-## This class can also be used to give units individual turns
-## instead of team-based phases.
+# I chose to implement this to greatly speed up
+# pathfinding and AI times compared to arrays
+# This class can also be used to give units individual turns
+# instead of team-based phases.
 ## The list keeps track of the head node
-## As of now, I do not see much performance improvement
-## needed to necesitate using a tail node
-## I am using a dummy node to minimize the need of reattaching
-## head references. This means that the first item in the list
-## is actually head.next
+# As of now, I do not see much performance improvement
+# needed to necesitate using a tail node
+# I am using a dummy node to minimize the need of reattaching
+# head references. This means that the first item in the list
+# is actually head.next
 
 # Information
 ## Dummy node at the start of the list

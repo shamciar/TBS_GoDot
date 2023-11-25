@@ -1,12 +1,16 @@
-[gd_resource type="Resource" load_steps=3 format=2]
+[gd_resource type="Resource" load_steps=5 format=2]
 
 [ext_resource path="res://Database/Classes/Class_Data.gd" type="Script" id=1]
 [ext_resource path="res://Database/Weapons/Swords/Sword.tres" type="Resource" id=2]
+[ext_resource path="res://Database/Classes/Duelist/Base_Stats_Duelist.tres" type="Resource" id=3]
+[ext_resource path="res://Database/Classes/Duelist/Max_Stats_Duelist.tres" type="Resource" id=4]
 
 [resource]
 script = ExtResource( 1 )
-title = ""
-description = ""
+title = "Duelist"
+description = "Masters of the blade who cut through their foes at lightning speed."
 usable_weapons = [ ExtResource( 2 ) ]
+base_stats = ExtResource( 3 )
+max_stats = ExtResource( 4 )
 promotions = [  ]
 prerequisites = [  ]

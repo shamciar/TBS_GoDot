@@ -8,6 +8,7 @@ extends Resource
 ## higher levels of coupling
 
 enum condition {
+	SEIZE,
 	ROUT,
 	KILL,
 	SURVIVE,

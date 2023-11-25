@@ -1,12 +1,12 @@
 class_name CellPriorityQueue
 
 ## Updated Priority Queue specifically for grid cells
-## There is probably a better way to create a generic implementation,
-## but this will do for now
-## Now, instead of sorting every time we add a new object,
-## We will instead add everything in sorted order
-## I could have left this as an array, however given the nature of sorting
-## and adding stuff to arrays, I chose to create a LinkedList for this
+# There is probably a better way to create a generic implementation,
+# but this will do for now
+# Now, instead of sorting every time we add a new object,
+# We will instead add everything in sorted order
+# I could have left this as an array, however given the nature of sorting
+# and adding stuff to arrays, I chose to create a LinkedList for this
 
 var queue : LinkedList = LinkedList.new()
 

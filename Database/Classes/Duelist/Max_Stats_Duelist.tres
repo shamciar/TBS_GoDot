@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Database/Stats/Base_Stat_Container.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+stats = {
+0: 69,
+1: 30,
+2: 25,
+3: 34,
+4: 35,
+5: 32,
+6: 28,
+7: 27
+}

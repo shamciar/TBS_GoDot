@@ -259,4 +259,3 @@ func start_ai_combat():
 	
 	# Start Combat screen
 	combat_screen.start_combat(Combat_Screen.enemy_first_turn)
-	
