@@ -380,7 +380,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Fire Emblem"
+config/name="TBS Godot"
 config/description="Fire Emblem Rebuilt with Godot!"
 run/main_scene="res://Scenes/Intro Screen/Intro Screen.tscn"
 config/icon="res://FE Icon.jpg"
@@ -542,7 +542,7 @@ file_logging/enable_file_logging=true
 
 [mono]
 
-project/assembly_name="Fire Emblem"
+project/assembly_name="TBS Godot"
 
 [rendering]
 
