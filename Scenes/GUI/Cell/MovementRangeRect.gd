@@ -9,6 +9,8 @@ func _ready():
 	$"Purple/Red Player".play("Wave")
 	$"Marked/Blue Player".play("Wave")
 
+
+# Colors tiles based on how a unit can interact with them
 func turnOn(colorName):
 	if colorName == "Red":
 		if !$"Green".visible && !$"Red".visible && !$"Blue".visible:

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-11-25T12:14:19.140000000</meta:creation-date><meta:generator>LibreOffice/7.6.3.2$Windows_X86_64 LibreOffice_project/29d686fea9f6705b262d369fede658f824154cc0</meta:generator><dc:date>2023-11-25T21:52:04.520000000</dc:date><meta:editing-duration>PT9H36M17S</meta:editing-duration><meta:editing-cycles>106</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="141" meta:word-count="1248" meta:character-count="7172" meta:non-whitespace-character-count="6197"/></office:meta>
+ <office:meta><meta:creation-date>2023-11-25T12:14:19.140000000</meta:creation-date><meta:generator>LibreOffice/7.6.3.2$Windows_X86_64 LibreOffice_project/29d686fea9f6705b262d369fede658f824154cc0</meta:generator><dc:date>2023-11-30T19:37:38.051000000</dc:date><meta:editing-duration>PT11H4M40S</meta:editing-duration><meta:editing-cycles>115</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="153" meta:word-count="1307" meta:character-count="7478" meta:non-whitespace-character-count="6467"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">131939</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">2540</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">40801</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22086</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">39160</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16808</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16637</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">148375</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">17863</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">17108</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">131939</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">40799</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">154023</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">2540</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">39158</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">19346</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -91,7 +91,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1291764</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1299282</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">1167651</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
@@ -159,7 +159,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -212,6 +212,7 @@
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
@@ -315,59 +316,74 @@
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties style:text-underline-style="none" officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:line-height="100%"/>
-   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:line-height="100%"/>
-   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:line-height="100%"/>
-   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:line-height="100%"/>
-   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:paragraph-properties fo:line-height="100%"/>
-   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties style:text-underline-style="none" officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties style:text-underline-style="none" officeooo:rsid="0013b5f4" officeooo:paragraph-rsid="0013b5f4"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0013b5f4" officeooo:paragraph-rsid="0013b5f4"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:line-height="100%"/>
    <style:text-properties officeooo:rsid="0013b5f4" officeooo:paragraph-rsid="0013b5f4"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:line-height="100%"/>
+   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:line-height="100%"/>
+   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0013d352"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:line-height="100%"/>
+   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:paragraph-properties fo:line-height="100%"/>
+   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:line-height="100%"/>
+   <style:text-properties officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0013b5f4" officeooo:paragraph-rsid="0013b5f4"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:paragraph-properties fo:line-height="100%"/>
    <style:text-properties officeooo:rsid="0013b5f4" officeooo:paragraph-rsid="0013b5f4"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:line-height="100%"/>
    <style:text-properties officeooo:rsid="0013b5f4" officeooo:paragraph-rsid="0013b5f4"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:line-height="100%"/>
    <style:text-properties officeooo:rsid="0013b5f4" officeooo:paragraph-rsid="0013b5f4"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="0011d123" officeooo:paragraph-rsid="0011d123"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="0013b5f4" officeooo:paragraph-rsid="0013b5f4"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:text-properties officeooo:rsid="0013d352" officeooo:paragraph-rsid="0013d352"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0011d123"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
    <style:text-properties officeooo:rsid="0013b5f4"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="0013d352"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
@@ -577,6 +593,214 @@
     </style:list-level-properties>
    </text:list-level-style-bullet>
   </text:list-style>
+  <text:list-style style:name="L5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%" style:num-format="1" text:display-levels="2">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%" style:num-format="1" text:display-levels="3">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%" style:num-format="1" text:display-levels="4">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%" style:num-format="1" text:display-levels="5">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%" style:num-format="1" text:display-levels="6">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%.%7%" style:num-format="1" text:display-levels="7">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%.%7%.%8%" style:num-format="1" text:display-levels="8">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%.%7%.%8%.%9%" style:num-format="1" text:display-levels="9">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%.%7%.%8%.%9%.%10%" style:num-format="1" text:display-levels="10">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L6">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L7">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%" style:num-format="1" text:display-levels="2">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%" style:num-format="1" text:display-levels="3">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%" style:num-format="1" text:display-levels="4">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%" style:num-format="1" text:display-levels="5">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%" style:num-format="1" text:display-levels="6">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%.%7%" style:num-format="1" text:display-levels="7">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%.%7%.%8%" style:num-format="1" text:display-levels="8">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%.%7%.%8%.%9%" style:num-format="1" text:display-levels="9">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%.%3%.%4%.%5%.%6%.%7%.%8%.%9%.%10%" style:num-format="1" text:display-levels="10">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L8">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -603,321 +827,369 @@
    <text:p text:style-name="P5">TBS Godot Program Design</text:p>
    <text:h text:style-name="P1" text:outline-level="1">Rationale</text:h>
    <text:p text:style-name="P4">Make a foundation for an Fire Emblem-inspired game in Godot 3.5. I originally wanted to make my own with additions and expansions based on content in newer FE games, as well as make new additions to allow for deeper decision-making. However, I found this repository and decided to work with it as a base.</text:p>
+   <text:h text:style-name="P14" text:outline-level="2"><text:span text:style-name="T3">Flows and Loops</text:span></text:h>
+   <text:list text:style-name="L8">
+    <text:list-item>
+     <text:p text:style-name="P25">Load Title Screen</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P25">Selection Loop</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P25">Check selection and update cursor position based on selection number</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P25">When the user presses the accept button, process the selection</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P25">Process Selection</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P25">New Game</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P25">Go to new game screen</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P25">Load Game</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P25">Load game from save file</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P25">Options</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P25">Currently does nothing</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Gameplay changes</text:h>
    <text:list text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P14">Added daggers and brawling weapon types.</text:p>
+     <text:p text:style-name="P16">Added daggers and brawling weapon types.</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P14">Comments: I dislike how thief classes use swords in most FE games. Three Houses also officially added Brawl weapons. I want a game that properly has both.</text:p>
+       <text:p text:style-name="P16">Comments: I dislike how thief classes use swords in most FE games. Three Houses also officially added Brawl weapons. I want a game that properly has both.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P14">Additional weapon triangle to complement this change. Dagger beat Brawl, Brawl beats Bow, and Bow beats Dagger.</text:p>
+       <text:p text:style-name="P16">Additional weapon triangle to complement this change. Dagger beat Brawl, Brawl beats Bow, and Bow beats Dagger.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">Units can equip staves and use them as weapons in combat. Staves no longer (inherently) cast spells.</text:p>
+     <text:p text:style-name="P16">Units can equip staves and use them as weapons in combat. Staves no longer (inherently) cast spells.</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P17">Comments: Staves have a weird history in FE. They represent any spell (Magic that doesn’t do any damage, but instead has special effects or other utility) in the game. In prior FE games, this led to weird emergent gameplay where dark magic units would have the best healing output and light magic units would have the best debuff potential. Shadows of Valentia and Three Houses moving these to spells within certain magic types helped solidify and specify the role of each magic category, and I want to replicate that here.</text:p>
+       <text:p text:style-name="P19">Comments: Staves have a weird history in FE. They represent any spell (Magic that doesn’t do any damage, but instead has special effects or other utility) in the game. In prior FE games, this led to weird emergent gameplay where dark magic units would have the best healing output and light magic units would have the best debuff potential. Shadows of <text:soft-page-break/>Valentia and Three Houses moving these to spells within certain magic types helped solidify and specify the role of each magic category, and I want to replicate that here.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P14">Staves now act similarly to the “can use some magic” trait in Three Houses.</text:p>
+       <text:p text:style-name="P16">Staves now act similarly to the “can use some magic” trait in Three Houses.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P15">Rework magic types to be more inline with Shadows of Valentia and Three Houses.</text:p>
+     <text:p text:style-name="P23">Rework magic types to be more inline with Shadows of Valentia and Three Houses.</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P15">Comments: I want to expand the utility and variety of magic, and reduce ambiguity across magic types. FE has always had some overlap between Wind and Ice magic, as well as Fire and Earth magic. Similarly, FE has ambiguity in what Light and Dark magic represent. FE has also included more magic elements since Fates, but still keeps the categories condensed, leaving pure magic classes with minimal class options that don’t have much stat variety. <text:span text:style-name="T2">With this design, I intend to make a system that reduces ambiguity and overlap, increases magic utility and variety, and pleases me aesthetically.</text:span></text:p>
+       <text:p text:style-name="P23">Comments: I want to expand the utility and variety of magic, and reduce ambiguity across magic types. FE has always had some overlap between Wind and Ice magic, as well as Fire and Earth magic. Similarly, FE has ambiguity in what Light and Dark magic represent. FE has also included more magic elements since Fates, but still keeps the categories condensed, leaving pure magic classes with minimal class options that don’t have much stat variety. <text:span text:style-name="T2">With this design, I intend to make a system that reduces ambiguity and overlap, increases magic utility and variety, and pleases me aesthetically.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P15">Faith: Holy magic and healing spells. Faith classes tend to have higher Luck and Wisdom.</text:p>
+       <text:p text:style-name="P23">Faith: Holy magic and healing spells. Faith classes tend to have higher Luck and Wisdom.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P15">This will represent the <text:span text:style-name="T2">colloquially </text:span>“Holy” light magic that priests, clerics, monks, and bishops use.</text:p>
+         <text:p text:style-name="P23">This will represent the <text:span text:style-name="T2">colloquially </text:span>“Holy” light magic that priests, clerics, monks, and bishops use.</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P15">Reason: Science magic and analytical spells. Reason classes tend to have higher Dexterity.</text:p>
+       <text:p text:style-name="P23">Reason: Science magic and analytical spells. Reason classes tend to have higher Dexterity.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16"><text:soft-page-break/>This will represent the “Research” magic. This type of magic isn’t usually present in gameplay, but certain mages discuss scientific research in their dialogue.</text:p>
+         <text:p text:style-name="P24">This will represent the “Research” magic. This type of magic isn’t usually present in gameplay, but certain mages discuss scientific research in their dialogue.</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P15">Arcane: Curse magic and cursing spells. Arcane classes tend to have higher Magic.</text:p>
+       <text:p text:style-name="P23">Arcane: Curse magic and cursing spells. Arcane classes tend to have higher Magic.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">This will represent the colloquially “Elder” magic that shamans, cantors, and dark mages use.</text:p>
+         <text:p text:style-name="P24">This will represent the colloquially “Elder” magic that shamans, cantors, and dark mages use.</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P15">Storm: New magic type representing Thunder, Ice, and Wind magic <text:span text:style-name="T2">and focus on weather manipulation</text:span>. <text:span text:style-name="T2">Storm classes will tend to have higher Agility.</text:span></text:p>
+       <text:p text:style-name="P23">Storm: New magic type representing Thunder, Ice, and Wind magic <text:span text:style-name="T2">and focus on weather manipulation</text:span>. <text:span text:style-name="T2">Storm classes will tend to have higher Agility.</text:span></text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">This will represent the typical Wind and Thunder mage classes, as well as users of Ice magic.</text:p>
+         <text:p text:style-name="P24">This will represent the typical Wind and Thunder mage classes, as well as users of Ice magic.</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">Nature: New magic type representing Earth, Water, and Plant magic. Nature classes will tend to have higher Defense and Resistance and focus on terrain manipulation.</text:p>
+       <text:p text:style-name="P24">Nature: New magic type representing Earth, Water, and Plant magic. Nature classes will tend to have higher Defense and Resistance and focus on terrain manipulation.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">This kind of magic is relatively scarce in FE, however certain units (such as Leo) have special tomes that involve this kind of magic.</text:p>
+         <text:p text:style-name="P24">This kind of magic is relatively scarce in FE, however certain units (such as Leo) have special tomes that involve this kind of magic.</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">Cosmic: New magic type representing Fire, Light, and Dark magic. Cosmic classes will tend to have more balanced stats and focus on changing how units can move on maps.</text:p>
+       <text:p text:style-name="P24">Cosmic: New magic type representing Fire, Light, and Dark magic. Cosmic classes will tend to have more balanced stats and focus on changing how units can move on maps.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">This will represent the typical mage in FE. Here, Light and Dark magic represent literal light (Photons) and darkness (Shadows, Gravity)</text:p>
+         <text:p text:style-name="P24">This will represent the typical mage in FE. Here, Light and Dark magic represent literal light (Photons) and darkness (Shadows, Gravity)</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">New Weapon Triangles to augment the new weapons.</text:p>
+       <text:p text:style-name="P24">New Weapon Triangles to augment the new weapons.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">Faith beats Arcane, Arcane beats Reason, Reason beats Faith</text:p>
+         <text:p text:style-name="P24">Faith beats Arcane, Arcane beats Reason, Reason beats Faith</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P16">Storm beats Cosmic, Cosmic beats Nature, Nature beats Storm</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P16">Equip types</text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P16">How a unit holds a weapon. These can other equipment options, such as shields or mounts.</text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">One-Handed: Normal weapons</text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Two-Handed: Unit must use both hands to use. With the exception of Bows, these weapons cannot be used with a shield or while mounted.</text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Dual-Wield: Unit must use both hands to use. These weapons allow the user to strike twice when attacking, except while mounted.</text:p>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P16">Weapon subtypes</text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P16">These are not new weapon categories, but instead types of weapons that will consistently appear within a category.</text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Swords</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P16">Longsword: Two-handed</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Greatsword: Two-handed</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16"><text:soft-page-break/>Broadsword: Dual Wield</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Rapier: Anti-Cavalry</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Club: Anti-Armor</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Saber: Anti-Infantry</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Lances</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P16">Greatlance: Extended range</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Spear: Two-Handed</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Javelin: Throwing</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Pike: Anti-cavalry</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Axes</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P16">Battle Axe: Two-Handed</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Great Axe: Two-Handed</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Tomahawk: Throwing</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Mace: Anti-Armor</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Hatchet: Anti-Mech</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Brawl</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P16">Knuckles: Regular</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Gauntlet: Increases Defense</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Boots: Increases Evasion</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Monster Weapons</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Dagger</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P16">Twins: Dual Wield</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Knife: Throwing</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Dart: Increases status potency</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Needle: Increase healing potency</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Razor: Anti-Infantry</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Bow</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P16">Longbow: Extended range</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Shortbow: Shorter range</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Crossbow: Dex scaling, shorter range</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16"><text:soft-page-break/>Bowgun: Dex scaling, longer range</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Syringe: Healing boost</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P16">Staff</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P16">Staff: Healing boost</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Rod: Magic boost</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Cane: Raw Weapon</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P16">Scepter: Two-handed</text:p>
+         <text:p text:style-name="P24"><text:soft-page-break/>Storm beats Cosmic, Cosmic beats Nature, Nature beats Storm</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16">Mounts, Armor, and Accessories are no longer tied to classes and now have their own separate inventory.</text:p>
+     <text:p text:style-name="P24">Equip types</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P16">Comments: Having a mount provides a lot of options to a unit, especially in games that have dismounting and canto. Despite the weaknesses, mounted classes always wind up as the best classes in the game. Conversely, armor units usually wind up as the worst classes in the game. By separating these from classes and making them part of a character’s inventory, I intend to put more decision-making in the combat itself rather than on the class change screen, and reduce the amount of different classes I need to make.</text:p>
+       <text:p text:style-name="P24">How a unit holds a weapon. These can other equipment options, such as shields or mounts.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">Mounts: Units can dismount in the midst of battle. Certain combat arts and weapons will forcibly and permanently dismount a unit.</text:p>
+       <text:p text:style-name="P24">One-Handed: Normal weapons</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Two-Handed: Unit must use both hands to use. With the exception of Bows, these weapons cannot be used with a shield or while mounted.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Dual-Wield: Unit must use both hands to use. These weapons allow the user to strike twice when attacking, except while mounted.</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P24">Weapon subtypes</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P24">These are not new weapon categories, but instead types of weapons that will consistently appear within a category.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Swords</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">Cavalry: Boost movement and have a preferred terrain for further movement boosts, but has much worse movement on other terrain</text:p>
+         <text:p text:style-name="P24">Longsword: Two-handed</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Greatsword: Two-handed</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Broadsword: Dual Wield</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Rapier: Anti-Cavalry</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Club: Anti-Armor</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Saber: Anti-Infantry</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Lances</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P24">Greatlance: Extended range</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Spear: Two-Handed</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Javelin: Throwing</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Pike: Anti-cavalry</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Axes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P24">Battle Axe: Two-Handed</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Great Axe: Two-Handed</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Tomahawk: Throwing</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Mace: Anti-Armor</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Hatchet: Anti-Mech</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Brawl</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P24">Knuckles: Regular</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24"><text:soft-page-break/>Gauntlet: Increases Defense</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Boots: Increases Evasion</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Monster Weapons</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Dagger</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P24">Twins: Dual Wield</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Knife: Throwing</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Dart: Increases status potency</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Needle: Increase healing potency</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Razor: Anti-Infantry</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Bow</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P24">Longbow: Extended range</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Shortbow: Shorter range</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Crossbow: Dex scaling, shorter range</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Bowgun: Dex scaling, longer range</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Syringe: Healing boost</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Staff</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P24">Staff: Healing boost</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Rod: Magic boost</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Cane: Raw Weapon</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P24">Scepter: Two-handed</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P24">Mounts, Armor, and Accessories are no longer tied to classes and now have their own separate inventory.</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P24">Comments: Having a mount provides a lot of options to a unit, especially in games that have dismounting and canto. Despite the weaknesses, mounted classes always wind up as the best classes in the game. Conversely, armor units usually wind up as the worst classes in the game. By separating these from classes and making them part of a character’s inventory, I intend to put more decision-making in the combat itself rather than on the class change screen, and reduce the amount of different classes I need to make.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24">Mounts: Units can dismount in the midst of battle. Certain combat arts and weapons will forcibly and permanently dismount a unit.</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P24">Cavalry: Boost movement and have a preferred terrain for further movement boosts, but has much worse movement on other terrain</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P16">Horse: Plains</text:p>
+           <text:p text:style-name="P24"><text:soft-page-break/>Horse: Plains</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P16">Mech: Indoors</text:p>
+           <text:p text:style-name="P24">Mech: Indoors</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P16">Serpent: Desert</text:p>
+           <text:p text:style-name="P24">Serpent: Desert</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P16">Boat: Oceans</text:p>
+           <text:p text:style-name="P24">Boat: Oceans</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P16">Flying: Slightly boosts movement and can fly over any terrain, but cannot gain any terrain bonuses unless dismounted.</text:p>
+         <text:p text:style-name="P24">Flying: Slightly boosts movement and can fly over any terrain, but cannot gain any terrain bonuses unless dismounted.</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P16">Pegasus: Holy</text:p>
+           <text:p text:style-name="P24">Pegasus: Holy</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P16">Wyvern: Dragon</text:p>
+           <text:p text:style-name="P24">Wyvern: Dragon</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P16">Falcon: Beast</text:p>
+           <text:p text:style-name="P24">Falcon: Beast</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P16">Malig: Undead</text:p>
+           <text:p text:style-name="P24">Malig: Undead</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">Armor: Slightly reduces movement for better defensive stats.</text:p>
+       <text:p text:style-name="P24">Armor: Slightly reduces movement for better defensive stats.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">Accessories: Provide other bonuses, like more defenses or better movement.</text:p>
+       <text:p text:style-name="P24">Accessories: Provide other bonuses, like more defenses or better movement.</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">Boots cannot be used in tandem with mounts</text:p>
+         <text:p text:style-name="P24">Boots cannot be used in tandem with mounts</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14"><text:soft-page-break/>Separate inventories for weapons, items, equipment, gambits, and spells.</text:p>
+     <text:p text:style-name="P16">Separate inventories for weapons, items, equipment, gambits, and spells.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P1" text:outline-level="1">Database</text:h>
    <text:h text:style-name="P2" text:outline-level="2">Map-Related</text:h>
-   <text:list text:style-name="L3">
+   <text:list text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P20">Level</text:p>
      <text:list>
@@ -963,7 +1235,7 @@
                </text:list>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">Interaction Events (Visit/Seize)</text:p>
+               <text:p text:style-name="P20"><text:soft-page-break/>Interaction Events (Visit/Seize)</text:p>
               </text:list-item>
               <text:list-item>
                <text:p text:style-name="P20">Current Occupant</text:p>
@@ -979,9 +1251,9 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P11"/>
    <text:h text:style-name="P2" text:outline-level="2">Unit-Related</text:h>
-   <text:list text:style-name="L4">
+   <text:list text:style-name="L3">
     <text:list-item>
      <text:p text:style-name="P21">Unit</text:p>
      <text:list>
@@ -1012,7 +1284,7 @@
          <text:p text:style-name="P21">Gained stat increases (this also represents base stats)</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P21"><text:soft-page-break/>Inventory Lists</text:p>
+         <text:p text:style-name="P21">Inventory Lists</text:p>
          <text:list>
           <text:list-item>
            <text:p text:style-name="P21">Weapons</text:p>
@@ -1038,48 +1310,48 @@
    </text:list>
    <text:h text:style-name="P2" text:outline-level="2">Inventory-Related</text:h>
    <text:h text:style-name="P3" text:outline-level="3">Weapons</text:h>
-   <text:list text:style-name="L2">
+   <text:list text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P18">type: Object (This is an object since weapon types themselves have data)</text:p>
+     <text:p text:style-name="P22">type: Object (This is an object since weapon types themselves have data)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:span text:style-name="T2">name</text:span>: String</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">name</text:span>: String</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:span text:style-name="T2">description</text:span>: String</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">description</text:span>: String</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13">id: int</text:p>
+     <text:p text:style-name="P17">id: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18">rank: int</text:p>
+     <text:p text:style-name="P22">rank: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18">wield type: int</text:p>
+     <text:p text:style-name="P22">wield type: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:span text:style-name="T2">mi</text:span>ght: int</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">mi</text:span>ght: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:span text:style-name="T2">h</text:span>it: int</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">h</text:span>it: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:span text:style-name="T2">c</text:span>ritical: int</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">c</text:span>ritical: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:span text:style-name="T2">w</text:span>eight: int</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">w</text:span>eight: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18">minimum range: int</text:p>
+     <text:p text:style-name="P22"><text:soft-page-break/>minimum range: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18">maximum range: int</text:p>
+     <text:p text:style-name="P22">maximum range: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18">uses: int</text:p>
+     <text:p text:style-name="P22">uses: int</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18">price-per-use: int</text:p>
+     <text:p text:style-name="P22">price-per-use: int</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P7"/>
