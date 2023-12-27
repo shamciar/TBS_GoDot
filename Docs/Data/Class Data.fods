@@ -1,20 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2023-11-23T20:03:08.316000000</meta:creation-date><meta:generator>LibreOffice/7.6.3.2$Windows_X86_64 LibreOffice_project/29d686fea9f6705b262d369fede658f824154cc0</meta:generator><dc:date>2023-11-30T18:00:26.305000000</dc:date><meta:editing-duration>P1DT31M1S</meta:editing-duration><meta:editing-cycles>22</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:cell-count="490" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2023-11-23T20:03:08.316000000</meta:creation-date><meta:generator>LibreOffice/7.6.3.2$Windows_X86_64 LibreOffice_project/29d686fea9f6705b262d369fede658f824154cc0</meta:generator><dc:date>2023-12-17T15:37:16.270000000</dc:date><meta:editing-duration>P10DT18H53M1S</meta:editing-duration><meta:editing-cycles>37</meta:editing-cycles><meta:document-statistic meta:table-count="3" meta:cell-count="837" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">27279</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">11740</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">30725</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">12644</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Base Max Stats">
+       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">26</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+       <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+       <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+       <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Monster Max Stats">
-       <config:config-item config:name="CursorPositionX" config:type="int">10</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">7</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">8</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -30,13 +47,13 @@
        <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Promoted Max Stats">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">42</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">46</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">26</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">18</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -116,8 +133,11 @@
    <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item-map-named config:name="ScriptConfiguration">
-    <config:config-item-map-entry config:name="Promoted Max Stats">
+    <config:config-item-map-entry config:name="Base Max Stats">
      <config:config-item config:name="CodeName" config:type="string">Sheet1</config:config-item>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry config:name="Promoted Max Stats">
+     <config:config-item config:name="CodeName" config:type="string">Promoted Max Stats</config:config-item>
     </config:config-item-map-entry>
     <config:config-item-map-entry config:name="Monster Max Stats">
      <config:config-item config:name="CodeName" config:type="string">Monster Max Stats</config:config-item>
@@ -237,6 +257,9 @@
   <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
   </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.1228in"/>
+  </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
@@ -306,7 +329,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2023-11-30">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:40:47.057000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2023-12-17">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="15:35:54.186000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -321,6 +344,1020 @@
  <office:body>
   <office:spreadsheet>
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
+   <table:table table:name="Base Max Stats" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="8" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce6"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="16371" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Class Name</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>HP</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Strength</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Magic</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Dexterity</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Agility</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Luck</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Build</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Wisdom</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Total</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Weapons</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Skills</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="16372"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Base</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="float" office:value="55" calcext:value-type="float">
+      <text:p>55</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7" table:style-name="ce6" office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B2:.I2])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Sword</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Myrmidon</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="54" calcext:value-type="float">
+      <text:p>54</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B3:.I3])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Sword</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Evasive Stance</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mercenary</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="56" calcext:value-type="float">
+      <text:p>56</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B4:.I4])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Sword</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Darting Blow</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Soldier</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="57" calcext:value-type="float">
+      <text:p>57</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B5:.I5])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Lance</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Knight</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="58" calcext:value-type="float">
+      <text:p>58</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B6:.I6])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Lance</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Armored Stance</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bandit</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="60" calcext:value-type="float">
+      <text:p>60</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B7:.I7])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Axe</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Death Blow</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fighter</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="58" calcext:value-type="float">
+      <text:p>58</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B8:.I8])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Axe</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fierce Blow</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Brawler</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="60" calcext:value-type="float">
+      <text:p>60</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B9:.I9])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Brawl</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Apprentice</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="55" calcext:value-type="float">
+      <text:p>55</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B10:.I10])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Brawl</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Thief</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="52" calcext:value-type="float">
+      <text:p>52</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3" office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B11:.I11])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dagger</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Spy</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="53" calcext:value-type="float">
+      <text:p>53</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B12:.I12])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dagger</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Archer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="54" calcext:value-type="float">
+      <text:p>54</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B13:.I13])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bow</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Certain Blow</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nomad</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="53" calcext:value-type="float">
+      <text:p>53</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B14:.I14])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bow</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dancer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="52" calcext:value-type="float">
+      <text:p>52</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B15:.I15])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Staff</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Blade Dance</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Priest</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="52" calcext:value-type="float">
+      <text:p>52</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B16:.I16])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Faith</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Monk</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="53" calcext:value-type="float">
+      <text:p>53</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B17:.I17])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Faith</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scientist</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="55" calcext:value-type="float">
+      <text:p>55</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B18:.I18])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Reason</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Hacker</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="53" calcext:value-type="float">
+      <text:p>53</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B19:.I19])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Reason</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Hexer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="57" calcext:value-type="float">
+      <text:p>57</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B20:.I20])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Arcane</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cantor</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="59" calcext:value-type="float">
+      <text:p>59</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B21:.I21])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Arcane</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Diviner</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="53" calcext:value-type="float">
+      <text:p>53</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B22:.I22])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Storm</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Wizard</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="54" calcext:value-type="float">
+      <text:p>54</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B23:.I23])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Storm</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Shaman</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="55" calcext:value-type="float">
+      <text:p>55</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B24:.I24])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nature</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Blessed Stance</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Keeper</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="57" calcext:value-type="float">
+      <text:p>57</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B25:.I25])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nature</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Warding Stance</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mage</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="54" calcext:value-type="float">
+      <text:p>54</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B26:.I26])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cosmic</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scholar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="53" calcext:value-type="float">
+      <text:p>53</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B27:.I27])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cosmic</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16373"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bard</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="51" calcext:value-type="float">
+      <text:p>51</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B28:.I28])" office:value-type="float" office:value="230" calcext:value-type="float">
+      <text:p>230</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Staff</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fan Dance</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="16371"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="29">
+     <table:table-cell table:number-columns-repeated="16384"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="16384"/>
+    </table:table-row>
+   </table:table>
    <table:table table:name="Promoted Max Stats" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:number-columns-repeated="8" table:default-cell-style-name="Default"/>
@@ -728,13 +1765,32 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Merchant</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="70" calcext:value-type="float">
+      <text:p>70</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
       <text:p>25</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell table:formula="of:=SUM([.B15:.I15])" office:value-type="float" office:value="25" calcext:value-type="float">
-      <text:p>25</text:p>
+     <table:table-cell office:value-type="float" office:value="32" calcext:value-type="float">
+      <text:p>32</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="31" calcext:value-type="float">
+      <text:p>31</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33" calcext:value-type="float">
+      <text:p>33</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B15:.I15])" office:value-type="float" office:value="280" calcext:value-type="float">
+      <text:p>280</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Lance</text:p>
@@ -768,9 +1824,32 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Harrier</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="8"/>
-     <table:table-cell table:formula="of:=SUM([.B17:.I17])" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell office:value-type="float" office:value="67" calcext:value-type="float">
+      <text:p>67</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="32" calcext:value-type="float">
+      <text:p>32</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33" calcext:value-type="float">
+      <text:p>33</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="32" calcext:value-type="float">
+      <text:p>32</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="32" calcext:value-type="float">
+      <text:p>32</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B17:.I17])" office:value-type="float" office:value="280" calcext:value-type="float">
+      <text:p>280</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Lance</text:p>
@@ -960,14 +2039,11 @@
      <table:table-cell office:value-type="float" office:value="33" calcext:value-type="float">
       <text:p>33</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="28" calcext:value-type="float">
       <text:p>28</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
       <text:p>27</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
-      <text:p>28</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=SUM([.B23:.I23])" office:value-type="float" office:value="280" calcext:value-type="float">
       <text:p>280</text:p>
@@ -1021,9 +2097,29 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Retainer</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="8"/>
-     <table:table-cell table:formula="of:=SUM([.B26:.I26])" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell office:value-type="float" office:value="72" calcext:value-type="float">
+      <text:p>72</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="32" calcext:value-type="float">
+      <text:p>32</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B26:.I26])" office:value-type="float" office:value="280" calcext:value-type="float">
+      <text:p>280</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Brawl</text:p>
@@ -1136,16 +2232,29 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sniper</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="69" calcext:value-type="float">
+      <text:p>69</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
       <text:p>25</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="36" calcext:value-type="float">
       <text:p>36</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4"/>
-     <table:table-cell table:formula="of:=SUM([.B30:.I30])" office:value-type="float" office:value="61" calcext:value-type="float">
-      <text:p>61</text:p>
+     <table:table-cell office:value-type="float" office:value="31" calcext:value-type="float">
+      <text:p>31</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33" calcext:value-type="float">
+      <text:p>33</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B30:.I30])" office:value-type="float" office:value="280" calcext:value-type="float">
+      <text:p>280</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Bow</text:p>
@@ -1197,12 +2306,9 @@
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
       <text:p>25</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell office:value-type="float" office:value="36" calcext:value-type="float">
-      <text:p>36</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.B33:.I33])" office:value-type="float" office:value="61" calcext:value-type="float">
-      <text:p>61</text:p>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:formula="of:=SUM([.B33:.I33])" office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Faith</text:p>
@@ -1217,9 +2323,12 @@
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
       <text:p>25</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="6"/>
-     <table:table-cell table:formula="of:=SUM([.B34:.I34])" office:value-type="float" office:value="25" calcext:value-type="float">
-      <text:p>25</text:p>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="float" office:value="36" calcext:value-type="float">
+      <text:p>36</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.B34:.I34])" office:value-type="float" office:value="61" calcext:value-type="float">
+      <text:p>61</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Faith</text:p>
@@ -1330,7 +2439,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Analyst</text:p>
+      <text:p>Engineer</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
@@ -1367,7 +2476,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>weather</text:p>
+      <text:p>Chemist</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
@@ -1387,7 +2496,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Engineer</text:p>
+      <text:p>Metallurgist</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
@@ -1407,15 +2516,18 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>physics</text:p>
+      <text:p>Reactor</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
       <text:p>25</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="6"/>
-     <table:table-cell table:formula="of:=SUM([.B44:.I44])" office:value-type="float" office:value="25" calcext:value-type="float">
-      <text:p>25</text:p>
+     <table:table-cell office:value-type="float" office:value="36" calcext:value-type="float">
+      <text:p>36</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:formula="of:=SUM([.B44:.I44])" office:value-type="float" office:value="61" calcext:value-type="float">
+      <text:p>61</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Reason</text:p>
@@ -1449,12 +2561,12 @@
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
       <text:p>25</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="36" calcext:value-type="float">
-      <text:p>36</text:p>
+     <table:table-cell office:value-type="float" office:value="35" calcext:value-type="float">
+      <text:p>35</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell table:formula="of:=SUM([.B46:.I46])" office:value-type="float" office:value="61" calcext:value-type="float">
-      <text:p>61</text:p>
+     <table:table-cell table:formula="of:=SUM([.B46:.I46])" office:value-type="float" office:value="60" calcext:value-type="float">
+      <text:p>60</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Arcane</text:p>
@@ -1462,10 +2574,7 @@
      <table:table-cell table:number-columns-repeated="16373"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Chemist</text:p>
-     </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
       <text:p>25</text:p>
      </table:table-cell>
@@ -1483,7 +2592,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>erode</text:p>
+      <text:p>Gravedigger</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
@@ -1502,10 +2611,7 @@
      <table:table-cell table:number-columns-repeated="16372"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>decay</text:p>
-     </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
       <text:p>25</text:p>
      </table:table-cell>
@@ -1576,7 +2682,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>cme</text:p>
+      <text:p>Astrologian</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
@@ -2000,7 +3106,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Golem</text:p>
+      <text:p>Stoneborn</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="9"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">

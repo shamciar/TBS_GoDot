@@ -7,6 +7,16 @@ class_name Battlefield_Unit
 export(String) var sprite_dir = "Idle"
 export(int) var animation_movement_speed = 10
 
+export(String) var title
+export(String) var description
+export(Resource) var statIncreases
+export(Resource) var growthBonuses
+
+export var currentClass : int = 0
+export var currentLevel : int = 1
+
+
+# Everything below can either be turned into a scene or a resource
 # Movement -> Ally status is in here
 var UnitMovementStats
 var animation_movement

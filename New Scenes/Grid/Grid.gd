@@ -8,17 +8,17 @@ class_name Grid
 
 # Grid information
 ## Height of the map
-var map_height: int
+export(int) var height
 ## Width of the map
-var map_width: int
-## Locations of all player (blue) units
-var player_unit_locations
-## Locations of all enemy (red) units
-var enemy_unit_locations
-## Locations of all ally (green) units
-var ally_unit_location
-## Locations of all NPC (yellow) units
-var npc_unit_locations
+export(int) var width
+## List of all player (blue) units
+var player_units
+## List of all enemy (red) units
+var enemy_units
+## List of all ally (green) units
+var ally_units
+## List of all NPC (yellow) units
+var npc_units
 ## Array of cells
 var grid = []
 
@@ -30,6 +30,7 @@ func _ready():
 	
 	_setup_map_information()
 	_setup_grid()
+	print(grid)
 	
 	pass # Replace with function body.
 
@@ -41,23 +42,26 @@ func _ready():
 ## Sets up the information of the map
 func _setup_map_information() -> void:
 	# ...
-	BattlefieldInfo.current_level = self
-	BattlefieldInfo.music_player.get_node("AllyLevel").volume_db = 0
-	BattlefieldInfo.victory_text = self.get_meta("Victory_Condition")
+	pass
+#	BattlefieldInfo.current_level = self
+#	BattlefieldInfo.music_player.get_node("AllyLevel").volume_db = 0
+#	BattlefieldInfo.victory_text = self.get_meta("Victory_Condition")
 	
 ## Sets up the grid structure
 func _setup_grid() -> void:
 	
-	# Get map dimensions
-	map_height = self.get_meta("height")
-	map_width = self.get_meta("width")
-	
 	# Create the array
 	# Start 2D Array
-	for i in map_width:
+	for i in width:
 		grid.append([])
-		for j in map_height:
-			grid[i].append(0)
+		for j in height:
+			grid[i].append(Cell.new())
+			
+	# TODO: This node will eventually become a tool script
+	# To set up the grid, the script will need to
+	# initialize the grid with cells, each knowing their position and being of "plain" type
+	# Then draw borders around each cell to make them clearer in the editor
+	# Eventually allow for terrain editing and placing units on the map
 			
 ## Sets up the information for each cell in the grid
 func _setup_grid_cells() -> void:
